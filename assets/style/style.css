@@ -350,7 +350,7 @@ nav{
    padding:2rem;
 }
 .jobs-box{
-    height:800px;
+    height:800px; overflow-x: hidden;
 }
 .jobs-box p{
     padding-left:10rem;
